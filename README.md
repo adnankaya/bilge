@@ -102,3 +102,16 @@ python run.py llama3.2:1b
 }
 ```
 
+## Contact
+
+- [Website](https://kayace.com)
+- [Upwork](https://www.upwork.com/freelancers/~01250366c1d60c34c3)
+- [Linkedin](https://www.linkedin.com/in/adnan-kayace)
+- [X-Twitter](https://x.com/adnankayace)
+
+## Demo
+
+### English 🇺🇸
+
+[![bilge | your wise activity tracker ](https://img.youtube.com/vi/vSkWawoCzTs/0.jpg)](https://www.youtube.com/watch?v=vSkWawoCzTs)
+
