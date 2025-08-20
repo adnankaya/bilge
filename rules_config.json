@@ -1,0 +1,34 @@
+{
+    "rules": [
+        {
+            "category": "Work",
+            "duration_seconds": 10,
+            "action_name": "short_work_session"
+        },
+        {
+            "category": "Gaming",
+            "duration_seconds": 5,
+            "action_name": "short_gaming_session"
+        },
+        {
+            "category": "Browsing",
+            "duration_seconds": 3,
+            "action_name": "short_browsing_session"
+        },
+        {
+            "category": "Media",
+            "duration_seconds": 20,
+            "action_name": "short_media_session"
+        },
+        {
+            "category": "Communication",
+            "duration_seconds": 15,
+            "action_name": "short_communication_session"
+        },
+        {
+            "category": "Other",
+            "duration_seconds": 10,
+            "action_name": "short_other_session"
+        }
+    ]
+}
